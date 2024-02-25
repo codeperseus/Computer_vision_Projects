@@ -10,7 +10,7 @@ difference value is calibrated to indicate the characteristics of a given region
 example, nose, eyes, and so on.
 
 ---
-![image1](https://github.com/prateekghorawat/Face-KeyPoint-Detection/blob/main/images/image1.jpeg)
+![image1](https://github.com/prakashmakvana/Computer_vision_Projects/blob/main/Face-KeyPoint-Detection-main/images/image1.jpeg)
 * The rectangle section is placed over the characteristic feature of the face. 
 * As the intensity of the eye region is darker than the face, the black region of the rectangle goes near
 the eye and the white region goes below the eye. 
@@ -23,9 +23,9 @@ black region.
 
 ---
 
-![image2](https://github.com/prateekghorawat/Face-KeyPoint-Detection/blob/main/images/image2.png) 
-![image3](https://github.com/prateekghorawat/Face-KeyPoint-Detection/blob/main/images/image3.png) 
-![image4](https://github.com/prateekghorawat/Face-KeyPoint-Detection/blob/main/images/image4.png) 
+![image2](https://github.com/prakashmakvana/Computer_vision_Projects/blob/main/Face-KeyPoint-Detection-main/images/image2.png) 
+![image3](https://github.com/prakashmakvana/Computer_vision_Projects/blob/main/Face-KeyPoint-Detection-main/images/image3.png) 
+![image4](https://github.com/prakashmakvana/Computer_vision_Projects/blob/main/Face-KeyPoint-Detection-main/images/image4.png) 
 
 **The overall training system was developed to maximize the detection rate and minimize
 the false-positive rate.**
